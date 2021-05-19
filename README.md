@@ -7,6 +7,8 @@ DAY - 12
 <br> 
 An application where users can search for movies by their titles. Each movie card will display the rating and a short description of the movie with an image.
 <br>
+API Used - https://www.themoviedb.org/documentation/api
+<br>
 <br>
 <a href="https://github.com/pushpakumari5117/movieApp"> View Code </a> 
 || 
